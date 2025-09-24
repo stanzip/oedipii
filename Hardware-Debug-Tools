@@ -1,0 +1,10 @@
+SigDigger: SigDigger - A free digital signal analyzer
+SigDigger is a Qt5 digital signal analyzer written in C/C++ that runs in GNU/Linux, macOS and Windows. Unlike existing alternatives, SigDigger is not based on GNU Radio. Instead, it uses its own DSP library (sigutils) and a realtime signal analysis library (Suscan) that exploits multicore CPUs to distribute load. 
+Also, SigDigger supports most SDR devices in the market thanks to SoapySDR. Sigutils, Suscan and SigDigger are software libre, licensed under the terms of the General Public License version 3.
+
+Tool URIs:
+https://batchdrake.github.io/SigDigger/
+https://github.com/BatchDrake/SigDigger
+
+Scripted Install:
+https://actinid.org/blsd
